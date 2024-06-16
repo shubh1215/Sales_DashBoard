@@ -1,0 +1,2 @@
+# SUPERMARKET SHOP SALES DASHBOARD 
+This supermarket dashboard screams for attention! It exposes sales trends, department laggards, and year-over-year slumps. Top sellers shine, but also hidden are products gathering dust. Profit margins are laid bare. Customer traffic might be dwindling, and spending habits could be concerning. Promotions might be fizzling. Time to act! Use this data to fire up sales with targeted promotions, product revamps, and a store layout refresh. A clear, visual report becomes your weapon for supermarket domination! 
